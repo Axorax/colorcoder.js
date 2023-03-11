@@ -1,0 +1,35 @@
+{
+  "name": "colorcoder",
+  "version": "0.1.0",
+  "description": "Different color conversions",
+  "main": "colorcoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/colorcoder.js.git"
+  },
+  "keywords": [
+    "color",
+    "color-conversion",
+    "colorcoder",
+    "colour",
+    "colors",
+    "convert",
+    "converter",
+    "rgb",
+    "hsl",
+    "rgba",
+    "color-convert",
+    "color-converter",
+    "colour-converter"
+  ],
+  "type": "module",
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/colorcoder.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/colorcoder.js#readme"
+}
